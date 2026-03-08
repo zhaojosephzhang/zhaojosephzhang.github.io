@@ -80,9 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhao Zhang"
-  avatar           : "avater2.jpg"
-  bio              :
+  name          : "Zhao Zhang"
+  avatar        : "avater2.jpg"
+  bio           : "Joseph Jonathan <br/> Ph.D. Candidate in Astrophysics, Osaka University"
+  location      : "Toyonaka, Osaka, Japan"
+  employer      : "Osaka University"
+  googlescholar : "https://scholar.google.com/citations?hl=en&user=ljkZfyAAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6mTMftD-wOFdzEvgvchV_JUll9UIMTyoYPe4INLwFbvqnbnAx2uHu6fHtMLEKpc4i0bFOdkeiDEtcgOAPCuh8Vei9y2tfouBf4bNDRRMbMR5bUox8"
+  email         : "zzhang@astro-osaka.jp"
+  github        : "qwerzxsa12"
+  linkedin      : "%E9%92%8A-%E5%BC%A0-28b47b218"
 #   "Undergrad @UofT <br/>
                       "Joseph Jonathan <br/>  PhD Student @OU "
   location         : "Toyonaka, Osaka"
