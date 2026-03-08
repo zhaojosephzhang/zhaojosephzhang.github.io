@@ -108,7 +108,7 @@ Publications
 <br/>
 <br/>
 <br/>
-&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/2107.09859.pdf)<br/> &nbsp; Xing Yang, Hou-Jun Lü, Hao-Yu Yuan, __Zhao Zhang__, Bin-Bin Zhang, and En-Wei Liang. <br/> &nbsp; *ArXiv* (2021)<br/> <br/>
+
 Contact
 ======
 __Address__: Department of Earth and Space Science, Osaka University, Toyonaka, Osaka 560-0043, Japan.
