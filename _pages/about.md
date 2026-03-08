@@ -47,6 +47,15 @@ Research interest
 
 Publications
 ======
+<img width="165" align="left" hspace="10" src="../images/DM_full_30_single_comparison_with_analytic_label.png"/>
+
+&nbsp; [__Probing the Dispersion and Rotation Measure Contributions from Supernova Remnants in Fast Radio Burst Source Environments with 1D SNR Simulation__](../files/FRB_SNR_submit.pdf)<br/>
+&nbsp; __Zhao Joseph Zhang__, Gaku Kawashima, Shiu-Hang Lee, Kentaro Nagamine, Bing Zhang, and Yusei Fujimaru. <br/>
+&nbsp; *Submitted* (2026)<br/>
+
+<br/>
+<br/>
+<br/>
 
 <img width="165" align="left" hspace="10" src="../images/CROCODILE.png"/>
 
