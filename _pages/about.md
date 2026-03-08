@@ -119,7 +119,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/Evidence for gravitational 1 lensing of GRB 200716C.png"/>
 
-&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/Evidence for gravitational 1 lensing of GRB 200716C.pdf)<br/>
+&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/2017.11050.pdf)<br/>
 &nbsp; Xing Yang, Hou-Jun Lü, Hao-Yu Yuan, __Zhao Zhang__, Bin-Bin Zhang, and En-Wei Liang. <br/>
 &nbsp; *Astrophysical Journal Letters* (2021)<br/>
 
