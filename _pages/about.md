@@ -60,7 +60,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/A_Comptonized_Fireball_Bubble_Physical_Origin_of_Magnetar_Giant_Flares.png"/>
 
-&nbsp; [__Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares__](../files/2109.14252.pdf)<br/>
+&nbsp; [__Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares__](../files/A_Comptonized_Fireball_Bubble_Physical_Origin_of_Magnetar_Giant_Flares.png")<br/>
 &nbsp; __Zhao Joseph Zhang__, Bin-Bin Zhang, Yan-Zhi Meng. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* 520, 6195 (2023)<br/>
 
@@ -68,9 +68,9 @@ Publications
 <br/>
 <br/>
 
-<img width="165" align="left" hspace="10" src="../images/Umer.png"/>
+<img width="165" align="left" hspace="10" src="../images/Umer2026.png"/>
 
-&nbsp; [__A First-Principles Formulation of High-Energy Radiation from Magnetar Giant Flares__](../files/Umer.png)<br/>
+&nbsp; [__A First-Principles Formulation of High-Energy Radiation from Magnetar Giant Flares__](../files/Umer2026.png)<br/>
 &nbsp; Umer Rehman, __Zhao Joseph Zhang__, Bin-Bin Zhang. <br/>
 &nbsp; *Journal of High Energy Astrophysics* 50, 100489 (2026)<br/>
 
@@ -78,9 +78,9 @@ Publications
 <br/>
 <br/>
 
-<img width="165" align="left" hspace="10" src="../images/YYH.pdf"/>
+<img width="165" align="left" hspace="10" src="../images/A_Comptonized_Fireball_Bubble_Fits_the_Second_Extragalactic_Magnetar_Giant_Flare_GRB_231115A.pdf"/>
 
-&nbsp; [__A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A__](../files/YYH.pdf)<br/>
+&nbsp; [__A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A__](../files/A_Comptonized_Fireball_Bubble_Fits_the_Second_Extragalactic_Magnetar_Giant_Flare_GRB_231115A.pdf)<br/>
 &nbsp; Yi-Han Iris Yin, __Zhao Joseph Zhang__, et al. <br/>
 &nbsp; *Astrophysical Journal Letters* 961, L10 (2024)<br/>
 
@@ -88,7 +88,7 @@ Publications
 <br/>
 <br/>
 
-<img width="165" align="left" hspace="10" src="../images/2107.11050.pdf)"/>
+<img width="165" align="left" hspace="10" src="../images/GRB_140102A_Insight_into_Prompt_Spectral_Evolution_and_Early_Optical_Afterglow_Emission.png)"/>
 
 &nbsp; [__A Comprehensive Consistency Check between Synchrotron Radiation and the Observed Gamma-Ray Burst Spectra__](../files/2107.11050.pdf))<br/>
 &nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
@@ -99,7 +99,7 @@ Publications
 <br/>
 
 
-<img width="165" align="left" hspace="10" src="../images/2105.13145.pdf)"/>
+<img width="165" align="left" hspace="10" src="../images/A_Comprehensive_Consistency_Check_between_Synchrotron_Radiation_and_the_Observed_Gamma-Ray_Burst_Spectra.png)"/>
 
 &nbsp; [__GRB 140102A: Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission__](../files/2105.13145.pdf)<br/>
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and collaborators. <br/>
