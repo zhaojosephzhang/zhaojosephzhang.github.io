@@ -10,10 +10,10 @@ locale                   : "Osaka & Hong Kong"
 title                    : "Zhao “Joseph” Zhang "
 title_separator          : "-"
 name                     : &name "Zhao Zhang"
-description              : &description "Homepage of Zhao Zhang, Nanjing University"
+description : &description "Homepage of Zhao Zhang, Osaka University"
 url                      : https://qwerzxsa12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qwerzxsa12qwerzxsa12.github.io"
+repository               : "qwerzxsa12/qwerzxsa12.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,45 +85,35 @@ author:
   bio           : "Joseph Jonathan <br/> Ph.D. Candidate in Astrophysics, Osaka University"
   location      : "Toyonaka, Osaka, Japan"
   employer      : "Osaka University"
+  pubmed        :
   googlescholar : "https://scholar.google.com/citations?hl=en&user=ljkZfyAAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6mTMftD-wOFdzEvgvchV_JUll9UIMTyoYPe4INLwFbvqnbnAx2uHu6fHtMLEKpc4i0bFOdkeiDEtcgOAPCuh8Vei9y2tfouBf4bNDRRMbMR5bUox8"
   email         : "zzhang@astro-osaka.jp"
+  researchgate  :
+  uri           :
+  bitbucket     :
+  codepen       :
+  dribbble      :
+  flickr        :
+  facebook      :
+  foursquare    :
   github        : "qwerzxsa12"
+  google_plus   :
+  keybase       :
+  instagram     :
+  impactstory   :
+  lastfm        :
   linkedin      : "%E9%92%8A-%E5%BC%A0-28b47b218"
-#   "Undergrad @UofT <br/>
-                      "Joseph Jonathan <br/>  PhD Student @OU "
-  location         : "Toyonaka, Osaka"
-  employer         : 
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ljkZfyAAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6mTMftD-wOFdzEvgvchV_JUll9UIMTyoYPe4INLwFbvqnbnAx2uHu6fHtMLEKpc4i0bFOdkeiDEtcgOAPCuh8Vei9y2tfouBf4bNDRRMbMR5bUox8"
-  email            : zzhang@astro-osaka.jp
-  researchgate     :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "qwerzxsa12"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      :
-  lastfm           :
-  linkedin         : "//%E9%92%8A-%E5%BC%A0-28b47b218/"
-#   orcid            : "https://orcid.org/0000-0001-7682-7483"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-#   twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  orcid         :
+  pinterest     :
+  soundcloud    :
+  stackoverflow :
+  steam         :
+  tumblr        :
+  vine          :
+  weibo         :
+  xing          :
+  youtube       :
+  wikipedia     :
 
 # Reading Files
 include:
