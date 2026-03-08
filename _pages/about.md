@@ -10,134 +10,122 @@ redirect_from:
 
 Biography
 ======
-__Zhao Zhang__ joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics advised by *Assoc. Prof*. [Binbin Zhang](https://astronomy.nju.edu.cn/EN/People/AssociateProfessors/20200707/i113754.html), pursuing the research on High Energy Astrophysics. He specializes in gamma-ray bursts (GRBs), Magnetar Giant Flares (MGFs), Gravitational Lensing (GL) and many other theoretic astrophysics fields. In paralell, he works well on GRB analyzing and is good at programming, participating in developing the GRB data processing pipelines.
+__Zhao Zhang__ is currently a Ph.D. candidate in Astrophysics at Osaka University, working in the Department of Earth and Space Science under the supervision of Prof. Kentaro Nagamine. His research focuses on Fast Radio Bursts (FRBs), cosmology, and the distribution of baryonic matter in the Universe. In particular, he studies how FRB dispersion measures (DMs) can be used as probes of baryons across multiple spatial scales, from large-scale cosmic structures to local source environments.
 
-He received his B.S. degree in physics from Guangxi University in June 2019. and studied the progenitors of GRBs emitted from black holes under the guidance of *Prof*. [Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during the undergraduate period.
+His doctoral research mainly involves cosmological hydrodynamic simulations, especially the CROCODILE simulation, to investigate the baryon distribution in the cosmic web and the impact of AGN feedback on large-scale structures. By constructing FRB light-cone realizations through simulated volumes, he studies the statistical properties of FRB DMs and their dependence on redshift, environment, foreground halos, and host galaxies. These studies aim to provide a self-consistent framework for understanding FRBs as cosmological probes and for addressing the long-standing missing baryon problem.
 
-Parallelly, he is keen on exploring different research areas. He is interested in the fundamentals of optics, expecting to outspread the range of Astrophotonics. And he is also very interested in Supernova, especially for those are in association with GRBs. He is pursing the physical origin and statistical characteristics of this kind of supernova.
+In addition to cosmological studies, he also works on modeling FRB source environments using hydrodynamic simulations of supernova remnants (SNRs). His recent work focuses on the time evolution of local DM and free-free absorption around young magnetars, with the goal of understanding how source environments affect the observability of FRBs and their cosmological applications.
 
-<!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2022!__ -->
+Before joining Osaka University, he received his M.S. degree in Astrophysics from Nanjing University, where he worked on high-energy astrophysical transients including magnetar giant flares, gamma-ray bursts (GRBs), and related radiation mechanisms. He obtained his B.S. degree in Physics from Guangxi University, where he studied the spectral properties of GRBs.
 
 <br/>
 
 Research interest
 ======
 
-
-&nbsp; __High energy astrophysics__<br/>
+&nbsp; __Fast Radio Bursts and Cosmology__<br/>
 <hr/>
-- &nbsp; Data and observation-oriented research on GRBs; <br/>
-- &nbsp; Gravitational waves and related high energy astrophysics; <br/> 
-- &nbsp; Gravitational lensing and its obsergvational properties in the high-energy band; <br/> 
-- &nbsp; Physical orgin of supernovae in association with GRBs. <br/> 
+- &nbsp; FRB dispersion measures as probes of cosmic baryon distribution; <br/>
+- &nbsp; FRB cosmology and the missing baryon problem; <br/>
+- &nbsp; Statistical studies of FRB DMs using cosmological hydrodynamic simulations; <br/>
+- &nbsp; FRB source environments and local propagation effects. <br/>
 <br/>
 
-&nbsp; __Astrophotonics__<br/>
+&nbsp; __Cosmological Hydrodynamical Simulations__<br/>
 <hr/>
-- &nbsp; Model of interstellar medium based on nonlinear photonics. <br/> 
+- &nbsp; Baryon distribution in the cosmic web, intergalactic medium, and galactic halos; <br/>
+- &nbsp; AGN feedback and its impact on large-scale structures; <br/>
+- &nbsp; Light-cone construction and line-of-sight analysis through simulated cosmic volumes. <br/>
+<br/>
 
+&nbsp; __High-Energy Astrophysics__<br/>
+<hr/>
+- &nbsp; Magnetar giant flares and their radiation mechanisms; <br/>
+- &nbsp; Gamma-ray bursts and spectral analysis; <br/>
+- &nbsp; Supernova remnants, young magnetars, and FRB local environments. <br/>
 <br/>
 
 Publications
 ======
-<img width="165" align="left" hspace=10 px src="../images/A Comptonized Fireball Bubble Physical Origin of Magnetar Giant Flares.png"/>
 
-&nbsp; [__A Comptonized Fireball Model of Magnetar Giant Flares__](../files/2109.14252.pdf)<br/>
-&nbsp; __Zhao Joseph Zhang__  Bin-Bin Zhang, Yan-Zhi Meng. <br/>
-&nbsp; *Arxiv* (2021)<br/>
+<img width="165" align="left" hspace="10" src="../images/Probing_the_cosmic_baryon_distribution_and_the_impact_of_AGN_feedback_with_FRBs_in_CROCODILE_simulation.png"/>
 
+&nbsp; [__Probing the cosmic baryon distribution and the impact of AGN feedback with FRBs in CROCODILE simulation__](../files/Probing_the_cosmic_baryon_distribution_and_the_impact_of_AGN_feedback_with_FRBs_in_CROCODILE_simulation.pdf)<br/>
+&nbsp; __Zhao Joseph Zhang__, Kentaro Nagamine, Oku Yuri, et al. <br/>
+&nbsp; *Astrophysical Journal* 993, 162 (2025)<br/>
+
+<br/>
+<br/>
+<br/>
+
+<img width="165" align="left" hspace="10" src="../images/A_Comptonized_Fireball_Bubble_Physical_Origin_of_Magnetar_Giant_Flares.png"/>
+
+&nbsp; [__Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares__](../files/A_Comptonized_Fireball_Bubble_Physical_Origin_of_Magnetar_Giant_Flares.pdf)<br/>
+&nbsp; __Zhao Joseph Zhang__, Bin-Bin Zhang, Yan-Zhi Meng. <br/>
+&nbsp; *Monthly Notices of the Royal Astronomical Society* 520, 6195 (2023)<br/>
 
 <br/>
 <br/>
 <br/>
 
-<img width="165" align="left" hspace=10 px src="../images/GRB 140102A Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission.png"/>
+<img width="165" align="left" hspace="10" src="../images/A_First-Principles_Formulation_of_High-Energy_Radiation_from_Magnetar_Giant_Flares.png"/>
 
-&nbsp; [__GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__](../files/2105.13145.pdf)<br/>
-&nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and 32 more. <br/>
-&nbsp; *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
-
-
-<br/>
-<br/>
-
-
-<img width="175" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
-
-&nbsp; [__A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra__](../files/2107.11050.pdf)<br/>
-&nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
-&nbsp; *ArXiv* (2021)<br/>
+&nbsp; [__A First-Principles Formulation of High-Energy Radiation from Magnetar Giant Flares__](../files/A_First-Principles_Formulation_of_High-Energy_Radiation_from_Magnetar_Giant_Flares.pdf)<br/>
+&nbsp; Umer Rehman, __Zhao Joseph Zhang__, Bin-Bin Zhang. <br/>
+&nbsp; *Journal of High Energy Astrophysics* 50, 100489 (2026)<br/>
 
 <br/>
 <br/>
+<br/>
 
-<img width="175" align="left" src="../images/Evidence for gravitational 1 lensing of GRB 200716C.png"/>
+<img width="165" align="left" hspace="10" src="../images/Evidence_for_gravitational_lensing_of_GRB_200716C.png"/>
 
-&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/2107.09859.pdf)<br/>
+&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/Evidence_for_gravitational_lensing_of_GRB_200716C.pdf)<br/>
 &nbsp; Xing Yang, Hou-Jun Lü, Hao-Yu Yuan, __Zhao Zhang__, Bin-Bin Zhang, and En-Wei Liang. <br/>
-&nbsp; *ArXiv* (2021)<br/>
+&nbsp; *Astrophysical Journal Letters* (2021)<br/>
 
 <br/>
-
-<!-- Industry Experience
-======
-<img width="90" align="left" src="../images/adobe-logo.png"/>
-
-&nbsp; __Creative Intelligence Lab, Adobe Research__<br/>
-&nbsp; Research Intern with Dr. [Danny Kaufman](http://dannykaufman.io/)<br/>
-&nbsp; *<h style="color:rgb(150, 150, 150);font-size:16px">Project: Multi-Resolution Simulation</h> <br/>*
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;May 2021 - Aug. 2021<br/>
+<br/>
 <br/>
 
-<img width="90" align="left" src="../images/adobe-logo.png"/>
+<img width="165" align="left" hspace="10" src="../images/A_Comprehensive_Consistency_Check_between_Synchrotron_Radiation_and_the_Observed_Gamma-Ray_Burst_Spectra.png"/>
 
-&nbsp; __Emerging Graphics Group, Adobe Research__<br/>
-&nbsp; Research Intern with Dr. [Qi Sun](https://qisun.me/)<br/>
-&nbsp; *<h style="color:rgb(150, 150, 150);font-size:16px">Project: Skin Modeling</h> <br/>*
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;June 2020 - Sept. 2020<br/>
+&nbsp; [__A Comprehensive Consistency Check between Synchrotron Radiation and the Observed Gamma-Ray Burst Spectra__](../files/A_Comprehensive_Consistency_Check_between_Synchrotron_Radiation_and_the_Observed_Gamma-Ray_Burst_Spectra.pdf)<br/>
+&nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
+&nbsp; *Astrophysical Journal* (2021)<br/>
 
-<br/> -->
+<br/>
+<br/>
+<br/>
 
-<!-- Teaching Experience
-======
-&#9679; __Teaching Assistant__, University of Toronto<br/>
-&nbsp; &nbsp; [CSC419/2520 Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520) with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sept. 2020 - Jan. 2021<br/>
+<img width="165" align="left" hspace="10" src="../images/X-ray_burst_associated_with_FRB_200428_by_the_outflow_internal_shocks_from_magnetar-asteroid_impact.png"/>
 
-<br/> -->
+&nbsp; [__X-ray burst associated with FRB 200428 by the outflow internal shocks from magnetar-asteroid impact__](../files/X-ray_burst_associated_with_FRB_200428_by_the_outflow_internal_shocks_from_magnetar-asteroid_impact.pdf)<br/>
+&nbsp; Ze-Nan Liu, Yuan-Pei Yang, Wei-Yang Wang, __Zhao Joseph Zhang__, et al. <br/>
+&nbsp; *Research in Astronomy and Astrophysics* 23, 8<br/>
 
-<!-- Selected Projects
-======
-<div>
-<div style="font-size:12pt"><strong>Fast Support Reduction</strong></div>
-</div>
-<div style="font-size:10pt"> In layer-based 3D fabrication, supporting structures are fabricated
-to support overhanging regions yet discarded later. Reducing supports
-saves both time and material cost. In this project, we propose 
-a real-time skinning-based method to slim down the
-supporting structure while maintaining a detailed-preserved and semantically meaningful geometry.
-We achieve this by optimizing a set of performance objectives and searching globally in
-the subspace spanned by the joint handles. Artifacts e.g. self-intersection can be effectively avoided.
-Our method is implemented via OpenGL shaders and has potential to be
-employed as a structural prototyping tool that facilitates model design and fabrication. </div>
-<img width="100%" src="../images/bb-bunny.jpg"/> -->
+<br/>
+<br/>
+<br/>
 
+<img width="165" align="left" hspace="10" src="../images/GRB_140102A_Insight_into_Prompt_Spectral_Evolution_and_Early_Optical_Afterglow_Emission.png"/>
 
+&nbsp; [__GRB 140102A: Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission__](../files/GRB_140102A_Insight_into_Prompt_Spectral_Evolution_and_Early_Optical_Afterglow_Emission.pdf)<br/>
+&nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and collaborators. <br/>
+&nbsp; *Monthly Notices of the Royal Astronomical Society* 505, 4086 (2021)<br/>
+
+<br/>
+<br/>
+<br/>
 
 Contact
 ======
-__Address__: School of Astronomy and Space, Xianlin Campus, Nanjing University.
+__Address__: Department of Earth and Space Science, Osaka University, Toyonaka, Osaka 560-0043, Japan.
 <br/>
 <br/>
-__Email__: zhangzhao@smail.nju.edu.cn
+__Email__: zzhang@astro-osaka.jp
 <br/>
 <br/>
-__WeChat__: MichaeljoyJackson
-<br/> 
+__Email (personal)__: zhangzhao981013@outlook.com
 <br/>
-__QQ__: 563349377
-
+<br/>
