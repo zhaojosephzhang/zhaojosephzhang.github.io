@@ -69,7 +69,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/A Comptonized Fireball Bubble Physical Origin of Magnetar Giant Flares.png"/>
 
-&nbsp; [__Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares__](../files/2109.14252.pdf)<br/>
+&nbsp; [__Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares__](../files/2109.14252v2.pdf)<br/>
 &nbsp; __Zhao Joseph Zhang__, Bin-Bin Zhang, Yan-Zhi Meng. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* 520, 6195 (2023)<br/>
 
