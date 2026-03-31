@@ -89,7 +89,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/A_Comptonized_Fireball_Bubble_Fits_the_Second_Extragalactic_Magnetar_Giant_Flare_GRB_231115A.png"/>
 
-&nbsp; [__A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A__](../files/Yin_2024_ApJL_963_L10.pdf<br/>
+&nbsp; [__A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A__](../files/Yin_2024_ApJL_963_L10.pdf)<br/>
 &nbsp; Yi-Han Iris Yin, __Zhao Joseph Zhang__, et al. <br/>
 &nbsp; *Astrophysical Journal Letters* 961, L10 (2024)<br/>
 
@@ -109,7 +109,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/GRB 140102A Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission.png"/>
 
-&nbsp; [__GRB 140102A: Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission__](../files/stab1573.pdf)<br/>
+&nbsp; [__GRB 140102A: Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission__](../files/2107.09859.pdf)<br/>
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and collaborators. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* 505, 4086 (2021)<br/>
 
