@@ -59,7 +59,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/CROCODILE.png"/>
 
-&nbsp; [__Probing the cosmic baryon distribution and the impact of AGN feedback with FRBs in CROCODILE simulation__](../files/Zhang_2025_ApJ_993_162.pdf)<br/>
+&nbsp; [__Probing the cosmic baryon distribution and the impact of AGN feedback with FRBs in CROCODILE simulation__](../files/2503.12741v5.pdf)<br/>
 &nbsp; __Zhao Joseph Zhang__, Kentaro Nagamine, Oku Yuri, et al. <br/>
 &nbsp; *Astrophysical Journal* 993, 162 (2025)<br/>
 
