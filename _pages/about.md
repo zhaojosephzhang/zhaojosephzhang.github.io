@@ -89,7 +89,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/A_Comptonized_Fireball_Bubble_Fits_the_Second_Extragalactic_Magnetar_Giant_Flare_GRB_231115A.png"/>
 
-&nbsp; [__A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A__](../files/A_Comptonized_Fireball_Bubble_Fits_the_Second_Extragalactic_Magnetar_Giant_Flare_GRB_231115A.pdf)<br/>
+&nbsp; [__A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A__](../files/Yin_2024_ApJL_963_L10.pdf<br/>
 &nbsp; Yi-Han Iris Yin, __Zhao Joseph Zhang__, et al. <br/>
 &nbsp; *Astrophysical Journal Letters* 961, L10 (2024)<br/>
 
@@ -99,7 +99,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
 
-&nbsp; [__A Comprehensive Consistency Check between Synchrotron Radiation and the Observed Gamma-Ray Burst Spectra__](../files/2107.11050.pdf)<br/>
+&nbsp; [__A Comprehensive Consistency Check between Synchrotron Radiation and the Observed Gamma-Ray Burst Spectra__](../files/Wang_2022_ApJ_926_178.pdf)<br/>
 &nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
 &nbsp; *Astrophysical Journal* (2021)<br/>
 
