@@ -59,7 +59,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/CROCODILE.png"/>
 
-&nbsp; [__Probing the cosmic baryon distribution and the impact of AGN feedback with FRBs in CROCODILE simulation__](../files/2503.12741v5.pdf)<br/>
+&nbsp; [__Probing the cosmic baryon distribution and the impact of AGN feedback with FRBs in CROCODILE simulation__](../files/Zhang_2025_ApJ_993_162.pdf)<br/>
 &nbsp; __Zhao Joseph Zhang__, Kentaro Nagamine, Oku Yuri, et al. <br/>
 &nbsp; *Astrophysical Journal* 993, 162 (2025)<br/>
 
@@ -109,7 +109,7 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/GRB 140102A Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission.png"/>
 
-&nbsp; [__GRB 140102A: Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission__](../files/2105.13145.pdf)<br/>
+&nbsp; [__GRB 140102A: Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission__](../files/stab1573.pdf)<br/>
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and collaborators. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* 505, 4086 (2021)<br/>
 
@@ -119,8 +119,8 @@ Publications
 
 <img width="165" align="left" hspace="10" src="../images/Evidence for gravitational 1 lensing of GRB 200716C.png"/>
 
-&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/2017.11050.pdf)<br/>
-&nbsp; Xing Yang, Hou-Jun Lü, Hao-Yu Yuan, __Zhao Zhang__, Bin-Bin Zhang, and En-Wei Liang. <br/>
+&nbsp; [__Evidence for gravitational lensing of GRB 200716C__](../files/Yang_2021_ApJL_921_L29.pdf)<br/>
+&nbsp; Xing Yang, Hou-Jun Lü, Hao-Yu Yuan, Jared Rice, __Zhao Zhang__, Bin-Bin Zhang, and En-Wei Liang. <br/>
 &nbsp; *Astrophysical Journal Letters* (2021)<br/>
 
 <br/>
