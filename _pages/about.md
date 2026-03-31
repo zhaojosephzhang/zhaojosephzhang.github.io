@@ -16,7 +16,7 @@ His doctoral research mainly involves cosmological hydrodynamic simulations, esp
 
 In addition to cosmological studies, he also works on modeling FRB source environments using hydrodynamic simulations of supernova remnants (SNRs). His recent work focuses on the time evolution of local DM and free-free absorption around young magnetars, with the goal of understanding how source environments affect the observability of FRBs and their cosmological applications.
 
-Before joining Osaka University, Zhao Zhang received his M.S. degree in Astrophysics from Nanjing University, where he worked on high-energy astrophysical transients, including magnetar giant flares and gamma-ray bursts (GRBs), as well as their radiation mechanisms, under the supervision of Prof. Binbin Zhang. He obtained his B.S. degree in Physics from Guangxi University, where he studied the spectral properties of GRBs under the supervision of Prof. Hojun Lv.
+Before joining Osaka University, Zhao Zhang received his M.S. degree in Astrophysics from Nanjing University, where he worked on high-energy astrophysical transients, including magnetar giant flares and gamma-ray bursts (GRBs), as well as their radiation mechanisms, under the supervision of Prof. Binbin Zhang. He obtained his B.S. degree in Physics from Guangxi University, where he studied the spectral properties of GRBs under the supervision of Prof. Hojun Lü.
 
 <br/>
 
