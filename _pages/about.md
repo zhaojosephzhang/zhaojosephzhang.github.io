@@ -53,7 +53,7 @@ Currently focused on FRB cosmology, baryon distribution, and large-scale structu
 - halo density and DM profiles  
 - IGM/CGM baryon fraction evolution  
 - light-cone construction and line-of-sight (LoS) analysis  
-These pipelines have been used in [Zhang et al. (2025, ApJ)](../files/FRB_SNR_submit.pdf).
+These pipelines have been used in [Zhang et al. (2025, ApJ)](../files/2503.12741v5.pdf).
 
 Built primarily with Python (MPI, HDF5, HPC environments) and designed for efficient scientific analysis
 
