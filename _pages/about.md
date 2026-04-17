@@ -45,6 +45,19 @@ Research interest
 - &nbsp; Supernova remnants, young magnetars, and FRB local environments. <br/>
 <br/>
 
+Cosmological Simulation Analysis Pipelines
+======
+[GitHub Repository](https://github.com/zhaojosephzhang/Cosmological_Analysis)
+A collection of self-developed analysis pipelines for cosmological hydrodynamic simulations.
+
+Currently focused on FRB cosmology, baryon distribution, and large-scale structure studies, including:
+- halo density and DM profiles  
+- IGM/CGM baryon fraction evolution  
+- light-cone construction and line-of-sight (LoS) analysis  
+These pipelines have been used in Zhang et al. (2025, ApJ).
+
+Built primarily with Python (MPI, HDF5, HPC environments) and designed for efficient scientific analysis
+
 Publications
 ======
 <img width="165" align="left" hspace="10" src="../images/DM_full_30_single_comparison_with_analytic_label.png"/>
