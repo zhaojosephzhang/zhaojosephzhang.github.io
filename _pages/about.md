@@ -63,7 +63,7 @@ Publications
 
 &nbsp; [__Probing the Dispersion and Rotation Measure Contributions from Supernova Remnants in Fast Radio Burst Source Environments with 1D SNR Simulation__](../files/FRB_SNR_submit.pdf)<br/>
 &nbsp; __Zhao Joseph Zhang__, Gaku Kawashima, Shiu-Hang Lee, Kentaro Nagamine, Bing Zhang, and Yusei Fujimaru. <br/>
-&nbsp; *Submitted* (2026)<br/>
+&nbsp; *Revision* (2026)<br/>
 
 <br/>
 <br/>
