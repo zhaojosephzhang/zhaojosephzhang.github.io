@@ -88,7 +88,9 @@ Publications
 <br/>
 <br/>
 <br/>
+
 <img width="165" align="left" hspace="10" src="../images/dm_cone_zmax2p2_lv8_f_Nlos50000_1D_profile_with_comparison.png"/>
+
 &nbsp; [__Utilizing Dispersion Measure of Fast Radio Bursts to Probe the Intergalactic Medium Turbulence__](../files/2605.03253v1.pdf)<br/>
 &nbsp; Ruinan Li, __Zhao Joseph Zhang__, et al. <br/>
 &nbsp; *Astrophysical Journal* accepted (2026)<br/>
